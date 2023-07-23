@@ -1,7 +1,7 @@
 {
-  "name": "express-typescript-service-skeleton",
+  "name": "hexagonal-typescript",
   "version": "1.0.0",
-  "description": "Skeleton for new typescript services based on hexagonal architecture",
+  "description": "Example of a typescript services based on hexagonal architecture",
   "main": "src/index.js",
   "scripts": {
     "start": "node dist/src/main.js",
@@ -17,23 +17,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/express-typescript-service-skeleton.git"
+    "url": "git+https://github.com/Alexggp/hexagonal-typescript"
   },
   "keywords": [
     "typescript",
     "express",
     "skeleton"
   ],
-  "author": "alberthernandezdev@gmail.com",
+  "author": "alex.ggperez@gmail.com",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.3.0"
   },
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/express-typescript-service-skeleton/issues"
+    "url": "https://github.com/Alexggp/hexagonal-typescript/issues"
   },
-  "homepage": "https://github.com/AlbertHernandez/express-typescript-service-skeleton#readme",
+  "homepage": "https://github.com/Alexggp/hexagonal-typescript#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",
